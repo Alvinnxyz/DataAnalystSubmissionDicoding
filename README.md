@@ -4,5 +4,5 @@
 ### Installasi dan penggunaan 
 1. Clone repo (https://github.com/Alvinnxyz/DataAnalystSubmissionDicoding.git)
 2. cd DataAnalystSubmissionDicoding
-3. pip install requirements.txt
+3. pip install -r requirements.txt
 4. streamlit run dashboard.py
